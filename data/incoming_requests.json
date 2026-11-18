@@ -1,0 +1,44 @@
+{
+  "requests": [
+    {
+      "id": "req-001",
+      "requester": "alex@example.com",
+      "message": "I am locked out of my account after the password reset email bounced. Can you reset my login?"
+    },
+    {
+      "id": "req-002",
+      "requester": "jordan@example.com",
+      "message": "I was charged twice for invoice #1042 on October 2. Please issue a refund for the duplicate payment."
+    },
+    {
+      "id": "req-003",
+      "requester": "sam@example.com",
+      "message": "The reports page throws a 500 error and a traceback when I filter by last month. This looks like a bug."
+    },
+    {
+      "id": "req-004",
+      "requester": "riley@example.com",
+      "message": "Would be nice if the export button could include CSV as well as PDF. This is a feature request, not urgent."
+    },
+    {
+      "id": "req-005",
+      "requester": "morgan@example.com",
+      "message": "The customer portal is down for our whole team. We cannot access any dashboards. This is an outage."
+    },
+    {
+      "id": "req-006",
+      "requester": "casey@example.com",
+      "message": "Can you point me to the documentation for API rate limits? No rush."
+    },
+    {
+      "id": "req-007",
+      "requester": "avery@example.com",
+      "message": "The mobile app crashes every time I open the settings screen. I have a screenshot of the crash."
+    },
+    {
+      "id": "req-008",
+      "requester": "jamie@example.com",
+      "message": "Please add a dark mode option to the dashboard. It would be a nice enhancement for evening use."
+    }
+  ]
+}

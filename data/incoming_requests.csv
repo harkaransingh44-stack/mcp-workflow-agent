@@ -1,0 +1,3 @@
+id,requester,message
+req-101,lee@example.com,"My MFA device was replaced and I cannot complete login. Please reset my MFA."
+req-102,pat@example.com,"Our checkout flow is offline and customers cannot place orders. This is a Sev-1 outage."
